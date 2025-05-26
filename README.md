@@ -1,2 +1,1 @@
-# HTML.CSSstudy
-html.css수업
+#학원 파이썬 수업
